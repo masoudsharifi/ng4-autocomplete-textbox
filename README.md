@@ -1,3 +1,5 @@
-# emptytext
+#ng4-autocomplete-textbox
 
-Example library for Angular 2
+This is an angular 4 module that allows for adding a auto complete textbox to an existing angular app.
+
+
