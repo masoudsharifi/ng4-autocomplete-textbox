@@ -13,7 +13,7 @@ This is an angular 4 module that allows for adding a auto complete textbox to an
 </li>
 <li>In your component template add the following block:</li><br/>
 <i>
-&lt;ng4-auto-complete-text-box<br/>
+    &lt;ng4-auto-complete-text-box<br/>
     
     inputID="this is the id of this component"<br/>
     
@@ -26,7 +26,7 @@ This is an angular 4 module that allows for adding a auto complete textbox to an
     searchParamName="the url parameter through which you would pass the user's partial search string"
 <br/>   
     (onSelected)="onItemSelected($event)"&gt;<br/>
-&lt;/ng4-auto-complete-text-box&gt;
+    &lt;/ng4-auto-complete-text-box&gt;
 </i><br/>
 <li>In your component implement the onItemSelected($event) method that captures the data selected by the user once the auto complete drop down is displayed to the user.</li>
 </u>
