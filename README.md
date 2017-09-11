@@ -14,7 +14,7 @@ This is an angular 4 module that allows for adding a auto complete textbox to an
 <li>In your component template add the following block:</li>
 <i>
 <p>
-&lt;ng4-auto-complete-text-box
+html=&lt;ng4-auto-complete-text-box
     inputID="this is the id of this component"
     
     inputName="this is the name of this component"
