@@ -1,6 +1,6 @@
 {
   "name": "ng4-autocomplete-textbox",
-  "version": "1.1.14",
+  "version": "1.1.15",
   "description": "This is an angular module to let you add a auto complete textbox to your application",
   "main": "ng4-autocomplete-textbox.umd.js",
   "jsnext:main": "ng4-autocomplete-textbox.esm.js",
