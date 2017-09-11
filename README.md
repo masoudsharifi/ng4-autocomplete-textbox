@@ -14,15 +14,8 @@ This is an angular 4 module that allows for adding a auto complete textbox to an
 <li>In your component template add the following block:</li>
 <i>
 <p>
-html=&lt;ng4-auto-complete-text-box
-    inputID="this is the id of this component"
-    
-    inputName="this is the name of this component"
-    placeHolder="this is the place holder"
-    apiMethodURI="the path to the API where you would get the auto complete data"    
-    searchParamName="the url parameter through which you would pass the user's partial search string"
-
-    (onSelected)="onItemSelected($event)"></ng4-auto-complete-text-box>
+&lt;ng4-auto-complete-text-box inputID="this is the id of this component" inputName="this is the name of this component" placeHolder="this is the place holder" apiMethodURI="the path to the API where you would get the auto complete data" searchParamName="the url parameter through which you would pass the user's partial search string"
+ (onSelected)="onItemSelected($event)"&gt;&lt;/ng4-auto-complete-text-box&gt;
 </p>
 </i><br/>
 <li>In your component implement the onItemSelected($event) method that captures the data selected by the user once the auto complete drop down is displayed to the user.</li>
