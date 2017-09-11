@@ -23,5 +23,3 @@ This is an angular 4 module that allows for adding a auto complete textbox to an
 <h2>How To Build Module</h2>
 In order to build this code just browse to the directory where you've saved it and run "npm run build"
 
-
-
