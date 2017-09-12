@@ -10,7 +10,7 @@ import {
   import { IAutoCompleteResult } from "./auto-complete-results.interface";
 
   @Component({
-    selector: 'ng4-auto-complete-text-box',
+    selector: 'ng4-autocomplete-textbox',
     template: `
     <div>
         <input
