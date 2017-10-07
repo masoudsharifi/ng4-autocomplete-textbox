@@ -20,6 +20,5 @@ This is an angular 4 module that allows for adding a auto complete textbox to an
 </i><br/>
 <li>In your component implement the onItemSelected($event) method that captures the data selected by the user once the auto complete drop down is displayed to the user.</li>
 </u>
-<h2>How To Build Module</h2>
-In order to build this code just browse to the directory where you've saved it and run "npm run build"
+
 
